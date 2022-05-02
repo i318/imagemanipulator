@@ -1,0 +1,24 @@
+Shania Prasad		        Python Image Converter
+Block C
+Computer Programming, Mr. Rai
+
+
+
+ Overall Goal
+
+On discord, there is a bot that allows users to add funny effects to their images.
+ You can add filters, funny text, or adjust the saturation. I believe that this project is similar.
+The overall goal of this script is to allow the creator to upload images and change certain things about it, similar to the discord bot. 
+You will be able to use the module and apply everything provided. You can also change the format of the image; from JPEG to PNG. 
+This script will only use the module, but the more advanced one gets at coding, the more they will realize they can upload and create 
+their own effects with code and apply it the same way. 
+
+Code Plan
+
+Before I start coding, here is what I imagine is the plan:
+
+- Import the module
+- Add images you want to modify to a file so the script can access it 
+- Start typing code
+- Define functions first 
+- Implement the functions 
